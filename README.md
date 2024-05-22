@@ -1,0 +1,2 @@
+# audiomentation_for_deepfake_detection
+Data augmentation pipeline for training deepfake detectors
